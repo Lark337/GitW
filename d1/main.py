@@ -5,8 +5,6 @@ def print_hi(name):
 
 if __name__ == '__main__':
     print_hi('Name')
-    print("for com1")
-    print("for com2")
-    print("for comm3")
+    print("for 1st commit")
 
 
